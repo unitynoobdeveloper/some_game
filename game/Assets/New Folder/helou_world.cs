@@ -8,6 +8,7 @@ public class helou_world : MonoBehaviour {
 	
 	}
 	//якось так
+	//скчна
 	// Update is called once per frame
 	void Update () {
 	
